@@ -1,0 +1,4 @@
+LEXEME     LINE  TOKEN         VALUE PARENT               IS LEAF?  NODE SYMBOL
+
+
+----       ----  ----          ----  ROOT                 yes       <program>
